@@ -1,3 +1,5 @@
-rango
+#venv
+/rango/
 
+#database
 tango_with_django_project/db.sqlite3

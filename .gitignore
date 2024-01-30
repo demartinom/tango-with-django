@@ -6,3 +6,6 @@ tango_with_django_project/db.sqlite3
 
 #cache
 __pycache__/
+
+#DS Store
+tango_with_django_project/static/.DS_Store

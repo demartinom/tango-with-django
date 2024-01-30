@@ -3,3 +3,6 @@
 
 #database
 tango_with_django_project/db.sqlite3
+
+#cache
+__pycache__/
